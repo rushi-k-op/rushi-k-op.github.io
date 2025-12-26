@@ -1,44 +1,62 @@
-# 👋 Hi, I'm Rushikesh Kaduskar
+# Rushikesh Kaduskar
+### Embedded Systems Engineer | Robotics & Automation
 
-**Embedded Systems Engineer | M.Sc. Robotics Student @ TU Dortmund**
-
-📍 **Dortmund, Germany** | 📧 **rushikaduskar1@gmail.com**
-
----
-
-## 🔧 Tech Stack
-**Languages:** C/C++/Embedded C • Python  
-**Embedded:** RTOS • Linux • STM32 • 32-bit MCUs  
-**Protocols:** UART/SPI/I2C • CAN • MQTT • BLE • TCP/IP  
-**Tools:** Git • MATLAB • PyTorch • CAD/3D Printing
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-kaduskar-b61010191)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rushi-k-op)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rushikaduskar1@gmail.com)
 
 ---
 
-## 💼 Experience
-- **Intangles Labs** (2023-24): Embedded Systems Engineer
-- **iTech Robotics** (2022): Computer Vision Intern
-- **Projects:** Wireless BMS, Industrial OCR, IoT Firmware
+## 🚀 Quick Overview
+
+- **🎓 Currently:** M.Sc. Automation & Robotics @ TU Dortmund University (Germany)
+- **💼 Experience:** 1+ years as Embedded Systems Engineer at Intangles Labs
+- **📍 Location:** Dortmund, Germany
+- **🎯 Focus:** Embedded Systems, IoT, Automotive, Robotics
+- **🔧 Tech Stack:** C/C++, RTOS, STM32, Python, Linux
+
+---
+
+## 🛠️ Technical Stack
+
+### **Core Skills**
+- **Languages:** C, C++, Embedded C, Python
+- **Embedded:** RTOS, Linux, STM32, 32-bit MCUs
+- **Protocols:** UART, SPI, I2C, CAN, MQTT, BLE, TCP/IP
+- **Tools:** Git, VS, MATLAB, PyTorch, CAD/3D Printing
+
+### **Professional Experience**
+- **Intangles Labs (2023-2024):** Developed firmware for GPS modems & IoT devices
+- **iTech Robotics (2022):** Computer Vision & automation projects
+- **Projects:** Wireless BMS for EVs, Industrial OCR, RTOS firmware
 
 ---
 
 ## 📚 Education
-- **M.Sc. Automation & Robotics** – TU Dortmund University (2025-Present)
-- **M.Sc. Mechatronics** – University of Siegen (2024-2025)
-- **B.Tech. Mechatronics** – Symbiosis University (2019-2023)
+
+| Degree | University | Period |
+|--------|------------|---------|
+| **M.Sc. Automation & Robotics** | TU Dortmund University | 2025-Present |
+| **M.Sc. Mechatronics** | University of Siegen | 2024-2025 |
+| **B.Tech. Mechatronics** | Symbiosis University | 2019-2023 |
 
 ---
 
-## 📊 GitHub Activity
+## 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rushi-k-op&show_icons=true&theme=dark&hide=issues)
-
----
-
-## 🤝 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rushikesh-kaduskar-b61010191)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rushi-k-op)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rushikaduskar1@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushi-k-op&show_icons=true&theme=dark&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-k-op&layout=compact&theme=dark&hide_title=true)
 
 ---
 
-⚡ *Building embedded solutions for automation & robotics*
+## 📫 Get in Touch
+
+- **Email:** rushikaduskar1@gmail.com
+- **Phone:** +49 155 10918468
+- **Location:** Dortmund, Germany
+- **LinkedIn:** [linkedin.com/in/rushikesh-kaduskar-b61010191](https://www.linkedin.com/in/rushikesh-kaduskar-b61010191)
+- **GitHub:** [github.com/rushi-k-op](https://github.com/rushi-k-op)
+
+---
+
+**"Engineering robust systems for tomorrow's automation."**
