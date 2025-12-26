@@ -1,7 +1,5 @@
 # Rushikesh Kaduskar | Embedded Systems & Robotics
 
-![Profile Banner](https://via.placeholder.com/1200x400/0a192f/64ffda?text=Embedded+Systems+Engineer+|+M.Sc.+Automation+%26+Robotics)
-
 ## 👋 About Me
 
 I'm a Master's student in **Automation and Robotics** at TU Dortmund University with a strong foundation in Mechatronics and over a year of professional experience as an **Embedded Systems Engineer**. I specialize in developing robust firmware for IoT and automotive applications using **C/C++** and **RTOS**.
