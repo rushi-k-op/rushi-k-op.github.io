@@ -42,13 +42,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rushi-k-op&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-k-op&layout=compact&theme=dark&hide_title=true)
-
----
-
 ## 📫 Get in Touch
 
 - **Email:** rushikaduskar1@gmail.com
